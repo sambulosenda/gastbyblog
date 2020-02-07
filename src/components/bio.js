@@ -54,11 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Sambulo <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+      Software engineer in constant search for new and exciting technologies
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Follow me on twitter
         </a>
       </p>
     </div>
